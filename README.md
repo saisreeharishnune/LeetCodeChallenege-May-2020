@@ -23,3 +23,8 @@ Problem | Solution
 [Day-5-SingleElementinaSortedArray](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week2/Day-5-SingleElementinaSortedArray.java)
 [Day-6-RemoveKDigits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week2/Day-6-RemoveKDigits.java)
 [Day-7-ImplementTrie(PrefixTree)](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week2/Day-7-ImplementTrie(PrefixTree).java)
+
+## WEEK - 3 - May 15th-May 21st
+Problem | Solution
+------- | --------
+[Day-1-MaximumSumCircularSubarray](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-1-MaximumSumCircularSubarray.java)
