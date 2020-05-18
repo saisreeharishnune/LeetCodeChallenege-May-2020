@@ -30,6 +30,7 @@ Problem | Solution
 [Day-1-MaximumSumCircularSubarray](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-1-MaximumSumCircularSubarray.java)
 [Day-2-OddEvenLinkedList](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-2-OddEvenLinkedList.java)
 [Day-3-FindAllAnagramsinaString](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-3-FindAllAnagramsinaString.java)
+[Day-4-PermutationinaString](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-4-PermutationinaString.java)
 
 
 
