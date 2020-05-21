@@ -33,6 +33,7 @@ Problem | Solution
 [Day-4-PermutationinaString](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-4-PermutationinaString.java)
 [Day-5-OnlineStockSpan](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-5-OnlineStockSpan.java)
 [Day-6-KthSmallestElementinaBST](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-6-KthSmallestElementinaBST.java)
+[Day-7-CountSquareSubmatriceswithAllOnes](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-7-CountSquareSubmatriceswithAllOnes.java)
 
 
 
