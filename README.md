@@ -35,5 +35,10 @@ Problem | Solution
 [Day-6-KthSmallestElementinaBST](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-6-KthSmallestElementinaBST.java)
 [Day-7-CountSquareSubmatriceswithAllOnes](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week3/Day-7-CountSquareSubmatriceswithAllOnes.java)
 
+## WEEK - 4 - May 22nd-May 28th
+Problem | Solution
+------- | --------
+[Day-1-SortCharactersByFrequency](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week4/Day-1-SortCharactersByFrequency.java)
+
 
 
