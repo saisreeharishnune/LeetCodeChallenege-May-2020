@@ -39,6 +39,7 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [Day-1-SortCharactersByFrequency](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week4/Day-1-SortCharactersByFrequency.java)
+[Day-2-IntervalListIntersections](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week4/Day-2-IntervalListIntersections.java)
 
 
 
