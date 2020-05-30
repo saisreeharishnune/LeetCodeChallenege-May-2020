@@ -46,10 +46,11 @@ Problem | Solution
 [Day-6-PossibleBipartition](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week4/Day-6-PossibleBipartition.java)
 [Day-7-CountingBits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week4/Day-7-CountingBits.java)
 
-## WEEK - 4 - May 29th-May 31st
+## WEEK - 5 - May 29th-May 31st
 Problem | Solution
 ------- | --------
 [Day-1-CourseSchedule](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week4/Day-1-CourseSchedule.java)
+[Day-2-KClosestPointsToOrigin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/) | [Java](https://github.com/saisreeharishnune/LeetCodeChallenge-May-2020/blob/master/Week4/Day-2-KClosestPointsToOrigin.java)
 
 
 
